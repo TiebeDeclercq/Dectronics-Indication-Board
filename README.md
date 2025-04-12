@@ -1,6 +1,6 @@
-# LED PCB
+# DECTRONICS INDICATION BOARD
 
-The LED PCB is a versatile lighting interface board designed to connect standard LEDs and addressable WS2812B RGB LEDs to systems via FCP connectors or pin headers. It provides flexible soldering options to choose wich connection option you want to use.
+The LED PCB is a versatile lighting interface board designed to connect standard LEDs and addressable WS2812B RGB LEDs to systems via FCP connectors or pin headers. It provides flexible soldering options to choose which connection option you want to use.
 ## Overview
 
 This PCB serves as a lighting expansion board that can be integrated with various systems through standardized connectors. It features both power indicator LEDs and a chain of WS2812B addressable RGB LEDs, making it suitable for status indication, ambient lighting, and visual feedback in electronic projects.
